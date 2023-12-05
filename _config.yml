@@ -6,7 +6,7 @@ description: "Description intentionally left blank." # This will show up in plac
 # All of these are optional and can be removed or commented out
 #email: "example@mail.com"
 #twitter_username: "twitteruser"
-github_username: "githubuser"
+github_username: "goomanskomp"
 #linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
@@ -20,7 +20,7 @@ github_username: "githubuser"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
