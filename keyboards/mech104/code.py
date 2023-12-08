@@ -1,6 +1,6 @@
 #KMK Layout for MECH-104 using YD-RP2040 board. If this is your first time be aware you have to desolder an LED,
-# the USRKEY button, tap into the big LED to make enough pins available using this layout. The more correct way to
-# this would be make a correct grid instead of filling spaces with KC.NO
+# the USRKEY button, and tap into the big LED to make enough pins available using this layout. The more correct way to
+# do this would be make a correct grid instead of filling spaces with KC.NO
 
 import board
 
