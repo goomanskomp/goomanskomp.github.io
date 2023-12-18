@@ -1,4 +1,19 @@
-not a complete list by any means. 
+list of tools i used to build my first few keyboards
+
+[QMK Firmware](https://qmk.fm/)
+
+[QMK Configurator](https://config.qmk.fm)
+
+[QMK Keyboard Tester](https://config.qmk.fm/#/test)
+
+
+[KMK Firmware](http://kmkfw.io/)
+
+[KMK Keycodes](http://kmkfw.io/docs/keycodes/)
+
+
+[]()
+
 
 [Mech 104](https://www.printables.com/model/413280-mechanical-keyboard-mech-104)
 
@@ -14,3 +29,4 @@ not a complete list by any means.
 
 
 [20 Key Numpad by TinyBoat](https://www.printables.com/model/156379-number-pad-case)
+
